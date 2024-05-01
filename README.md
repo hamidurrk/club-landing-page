@@ -1,4 +1,4 @@
-# Stanford AI Club Website
+# Landiing Page Bento Grid 
 
 ## Built Using and Initialised with 
 - Next.js 14 
